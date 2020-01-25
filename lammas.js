@@ -16,4 +16,4 @@ class Lammas {
 // exports.foo = 'boo';
 // exports.Lammas = Lammas;
 
-module.exports = Lammas;
+module.exports = Lammas; 
